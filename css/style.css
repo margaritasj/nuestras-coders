@@ -1,0 +1,25 @@
+body {
+    font-family: monospace;
+}
+hr {
+    border: 3px solid black; 
+    border-radius: 300px ;
+    width: 100px;
+    height: 0px; 
+    text-align: center;
+    margin-top: 0;
+    margin-left: 0; 
+}
+img {
+    position: relative;
+    filter: contrast(60%);
+}
+img:hover{  
+    filter:none;    
+}
+    
+span {
+    color: black;
+    position: absolute;   
+}
+
