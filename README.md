@@ -20,8 +20,8 @@
 
 ### Herramientas utilizadas ###
 
-> 1.HTML5
-> 2.CSS3
+>1.HTML5
+>2.CSS3
 
 ### Estructura de mis carpetas en GitHub ###
 ```nuestras-coders
